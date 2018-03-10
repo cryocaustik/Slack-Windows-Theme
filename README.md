@@ -14,5 +14,5 @@ Simple method to apply custom themes (e.g. dark theme 💜) to the Windows Slack
 
 ## Credit
 
-Core themes obtained from: [laCour/slack-night-mode](https://github.com/laCour/slack-night-mode)
-Method for attaching to client from: [foxus97 gist comment](https://gist.github.com/DrewML/0acd2e389492e7d9d6be63386d75dd99#gistcomment-2358430)
+- Core themes obtained from: [laCour/slack-night-mode](https://github.com/laCour/slack-night-mode)
+- Method for attaching to client from: [foxus97 gist comment](https://gist.github.com/DrewML/0acd2e389492e7d9d6be63386d75dd99#gistcomment-2358430)
