@@ -43,6 +43,11 @@ document.addEventListener('DOMContentLoaded', function () {
         #msg_form #msg_input {
         border-color: transparent;
         }
+
+        // temp fix for white chat background from recent slack-app update
+        .p-message_pane .c-message_list.c-virtual_list--scrollbar > .c-scrollbar__hider {
+        background: #222; !important
+        }
     `;
     $.ajax({
         url: 'https://cdn.rawgit.com/laCour/slack-night-mode/master/css/raw/black.css',
