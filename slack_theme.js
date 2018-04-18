@@ -43,6 +43,11 @@ document.addEventListener('DOMContentLoaded', function () {
         #msg_form #msg_input {
         border-color: transparent;
         }
+
+        button.c-button-unstyled.c-reaction{
+			background-color: rgb(77, 77, 77) !important;
+			border-color: rgb(30, 30, 30) !important;
+		}
     `;
     $.ajax({
         url: 'https://raw.githubusercontent.com/laCour/slack-night-mode/master/css/raw/black.css',
